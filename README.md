@@ -1,8 +1,8 @@
-# Budibase Azure Storage Tables Plugin
-This plugin allows you to connect to Azure Storage Tables as a datasource.
+# Budibase Azure Cosmos DB Plugin
+This plugin allows you to connect to Azure Cosmos DB as a datasource.
 
 # Description
-Azure Storage Tables plugin to connect to the datasourc
+Azure Cosmos DB plugin to connect to the datasource
 
 Find out more about [Budibase](https://github.com/Budibase/budibase).
 
